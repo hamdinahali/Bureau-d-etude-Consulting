@@ -1,0 +1,55 @@
+/* Home.css */
+.home {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-image: url('./hh.webp'); /* Remplacez 'background.jpg' par le chemin de votre image */
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .header {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-align: center;
+  }
+  
+  
+  .contact-info {
+    display: flex;
+    justify-content: space-between;
+    max-width: 600px;
+    margin: 0 auto;
+    color: white;
+  }
+  
+  .main-content {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 2px rgb(71, 24, 24), 0 0 1em rgb(207, 221, 84), 0 0 0.2em rgb(59, 117, 28);
+    text-align: center;
+  }
+  
+ 
+  
+  .client-button {
+    background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  }
+   .footer {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    text-align: center;
+  }
+  

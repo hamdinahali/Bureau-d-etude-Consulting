@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "6f99",
+      "nom": "achref",
+      "prenom": "ben slimen",
+      "adresse": "sousa",
+      "numtel": "23124209",
+      "email": "achrefbenslimen@gmail.com",
+      "paiment": "2024-08-02",
+      "montant": "350",
+      "mat_fiscale": "t567",
+      "mat_CNSS": "i874"
+    },
+    {
+      "id": "2399",
+      "nom": "nahali",
+      "prenom": "hamdi",
+      "adresse": "manouba",
+      "numtel": "50509154",
+      "email": "hamdinahali@gmail.com",
+      "paiment": "2024-10-07",
+      "montant": "590",
+      "mat_fiscale": "j578",
+      "mat_CNSS": "w324"
+    },
+    {
+      "id": "6c45",
+      "nom": "ghayeth",
+      "prenom": "k",
+      "adresse": "",
+      "numtel": "",
+      "email": "",
+      "paiment": "",
+      "montant": ""
+    }
+  ]
+}
