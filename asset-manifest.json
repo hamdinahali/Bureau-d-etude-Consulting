@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/hamdinahali/Bureau-d-etude-Consulting/static/css/main.08ea875f.chunk.css",
-    "main.js": "/hamdinahali/Bureau-d-etude-Consulting/static/js/main.54152de5.chunk.js",
-    "main.js.map": "/hamdinahali/Bureau-d-etude-Consulting/static/js/main.54152de5.chunk.js.map",
-    "runtime~main.js": "/hamdinahali/Bureau-d-etude-Consulting/static/js/runtime~main.2d258e08.js",
-    "runtime~main.js.map": "/hamdinahali/Bureau-d-etude-Consulting/static/js/runtime~main.2d258e08.js.map",
-    "static/js/2.c9a995d6.chunk.js": "/hamdinahali/Bureau-d-etude-Consulting/static/js/2.c9a995d6.chunk.js",
-    "static/js/2.c9a995d6.chunk.js.map": "/hamdinahali/Bureau-d-etude-Consulting/static/js/2.c9a995d6.chunk.js.map",
-    "static/js/3.0e4cdb98.chunk.js": "/hamdinahali/Bureau-d-etude-Consulting/static/js/3.0e4cdb98.chunk.js",
-    "static/js/3.0e4cdb98.chunk.js.map": "/hamdinahali/Bureau-d-etude-Consulting/static/js/3.0e4cdb98.chunk.js.map",
-    "index.html": "/hamdinahali/Bureau-d-etude-Consulting/index.html",
-    "precache-manifest.bc98281b77c9b180549dd9c953984bda.js": "/hamdinahali/Bureau-d-etude-Consulting/precache-manifest.bc98281b77c9b180549dd9c953984bda.js",
-    "service-worker.js": "/hamdinahali/Bureau-d-etude-Consulting/service-worker.js",
-    "static/css/main.08ea875f.chunk.css.map": "/hamdinahali/Bureau-d-etude-Consulting/static/css/main.08ea875f.chunk.css.map",
-    "static/media/Home.css": "/hamdinahali/Bureau-d-etude-Consulting/static/media/hh.672f699f.webp"
+    "main.css": "/Bureau-d-etude-Consulting/static/css/main.b5a8d52d.chunk.css",
+    "main.js": "/Bureau-d-etude-Consulting/static/js/main.54152de5.chunk.js",
+    "main.js.map": "/Bureau-d-etude-Consulting/static/js/main.54152de5.chunk.js.map",
+    "runtime~main.js": "/Bureau-d-etude-Consulting/static/js/runtime~main.44d036b9.js",
+    "runtime~main.js.map": "/Bureau-d-etude-Consulting/static/js/runtime~main.44d036b9.js.map",
+    "static/js/2.c9a995d6.chunk.js": "/Bureau-d-etude-Consulting/static/js/2.c9a995d6.chunk.js",
+    "static/js/2.c9a995d6.chunk.js.map": "/Bureau-d-etude-Consulting/static/js/2.c9a995d6.chunk.js.map",
+    "static/js/3.0e4cdb98.chunk.js": "/Bureau-d-etude-Consulting/static/js/3.0e4cdb98.chunk.js",
+    "static/js/3.0e4cdb98.chunk.js.map": "/Bureau-d-etude-Consulting/static/js/3.0e4cdb98.chunk.js.map",
+    "index.html": "/Bureau-d-etude-Consulting/index.html",
+    "precache-manifest.8fdb80d3d9db5edf493b5c24c500b533.js": "/Bureau-d-etude-Consulting/precache-manifest.8fdb80d3d9db5edf493b5c24c500b533.js",
+    "service-worker.js": "/Bureau-d-etude-Consulting/service-worker.js",
+    "static/css/main.b5a8d52d.chunk.css.map": "/Bureau-d-etude-Consulting/static/css/main.b5a8d52d.chunk.css.map",
+    "static/media/Home.css": "/Bureau-d-etude-Consulting/static/media/hh.672f699f.webp"
   }
 }
